@@ -1,3 +1,4 @@
+
 # App Description
 
 Enhance your baking skills and take your passion to the next level with our Baking Classes App. Designed for aspiring bakers, this app connects users with professional chefs through a wide range of baking classes and workshops. With features like course browsing, booking management, and personalized chef interactions, it aims to provide a comprehensive learning experience. The user-friendly interface allows easy navigation and management of your baking journey, whether you're a beginner or looking to refine your skills.
@@ -23,8 +24,7 @@ Easily manage your bookings with the option to cancel if your plans change.
 View and manage your profile, including your name, profile image, and list of booked courses.
 
 ## Screenshots
-
-![Screenshot 1](https://github.com/user-attachments/assets/example1)
+<img width="265" alt="Home Page" src="https://github.com/user-attachments/assets/09814fc4-c0db-45ec-a70b-31462b3b85d5" />
 ![Screenshot 2](https://github.com/user-attachments/assets/example2)
 ![Screenshot 3](https://github.com/user-attachments/assets/example3)
 ![Screenshot 4](https://github.com/user-attachments/assets/example4)
