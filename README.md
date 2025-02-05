@@ -24,11 +24,16 @@ Easily manage your bookings with the option to cancel if your plans change.
 View and manage your profile, including your name, profile image, and list of booked courses.
 
 ## Screenshots
+![Splash](https://github.com/user-attachments/assets/8b5be746-2e4f-4eac-b047-d94d4fb490ce)
 
-![Screenshot 2](https://github.com/user-attachments/assets/example2)
-![Screenshot 3](https://github.com/user-attachments/assets/example3)
-![Screenshot 4](https://github.com/user-attachments/assets/example4)
-![Screenshot 5](https://github.com/user-attachments/assets/example5)
+![Home (Booked)](https://github.com/user-attachments/assets/6f293c1b-7716-472a-a8ac-eaf34fe74668)
+![Details (Book)](https://github.com/user-attachments/assets/6a888892-1148-4725-96fa-8628ab0b04bd)
+
+![Courses](https://github.com/user-attachments/assets/b8142630-d23b-44d2-938b-e33ffc9720b9)
+![Profile](https://github.com/user-attachments/assets/d2484c53-675a-493b-a504-3ed530b2b66d)
+![Profile (Edit mode)](https://github.com/user-attachments/assets/a619fc5e-438f-424e-874c-e89f21f6dd5f)
+
+![Booking details (Booked)](https://github.com/user-attachments/assets/1595fbae-6306-474d-81ad-cc51edc5076e)
 
 ## Installation
 
